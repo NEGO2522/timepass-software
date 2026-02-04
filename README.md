@@ -1,2 +1,2 @@
 # timepass-software
-Software for Earned Badge
+Software for Earned 
